@@ -1,0 +1,9 @@
+# Core
+numpy
+pandas
+scikit-learn
+scipy
+kagglehub
+matplotlib
+seaborn
+plotly
