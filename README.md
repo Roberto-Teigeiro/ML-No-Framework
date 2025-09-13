@@ -2,6 +2,12 @@
 
 Este proyecto contiene código de Machine Learning sin utilizar frameworks externos y la opcion de ejecutarlo con framework externo.
 
+## Requisitos
+
+1. **Instala las librerias utilizadas:**
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 ## Cómo correr el código
 1. **Clona el repositorio**
@@ -17,12 +23,6 @@ Este proyecto contiene código de Machine Learning sin utilizar frameworks exter
 
 - `main.py`: Script principal para ejecutar el código con las implementaciones
 
-## Requisitos
-
-1. **Instala las librerias utilizadas:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 # Resultados
 1. Separación de Datos
